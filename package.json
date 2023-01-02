@@ -22,7 +22,7 @@
 		"pretty-bytes": "^5.6.0",
 		"safe-json-stringify": "^1.2.0",
 		"uuid": "^8.3.2",
-		"ws": "^7.4.4",
+		"ws": "^8.11.0",
 		"xstate": "^4.11.0"
 	},
 	"devDependencies": {
@@ -42,7 +42,7 @@
 		"@types/log4js": "^2.3.5",
 		"@types/safe-json-stringify": "^1.1.2",
 		"@types/uuid": "^8.3.0",
-		"@types/ws": "^7.2.5",
+		"@types/ws": "^8.5.4",
 		"@typescript-eslint/eslint-plugin": "^3.9.0",
 		"@typescript-eslint/parser": "^3.8.0",
 		"coveralls": "^3.1.0",
